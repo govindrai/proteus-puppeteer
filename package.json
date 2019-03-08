@@ -1,0 +1,11 @@
+{
+  "name": "proteus-puppeteer",
+  "version": "1.0.3",
+  "description": "Contains a chromium binary that works with AWS Lambda's Linux AMI",
+  "keywords": [],
+  "author": "Govind Rai",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "1.13.0"
+  }
+}
