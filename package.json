@@ -7,5 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer-core": "1.13.0"
-  }
+  },
+  "repository": "github:govindrai/proteus-puppeteer"
 }
